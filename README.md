@@ -1,1 +1,1 @@
-# inode-test
+completely new, deleted and created
